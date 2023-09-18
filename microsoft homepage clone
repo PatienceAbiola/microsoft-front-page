@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <title> microsoft homepage</title>
+    <meta name="viewport" conten="width=device-width" initial-scale="1.o">
+    </head>
+  <body>
+    <div class="container"> 
+      <nav class="main-nav">
+      <img src="microsoftlogopic.jpeg" alt="Microsoft" class="logo">
+      
+    <ul class="main-menu">
+      <li><a href="#">office</a></li>
+      <li><a href="#">windows</a></li>
+      <li><a href="#">surface</a></li>
+      <li><a href="#">xbox</a></li>
+      <li><a href="#">deals</a></li>
+      <li><a href="#">support</a></li>
+    </ul>
+    <ul class="right-menu">
+      <li>
+        <a href="#">
+         <i class="fas fa-search"></i>
+        </a>
+      </li>
+      <li>
+        <a href="#">
+         <i class="fas fa-shopping-cart"></i>
+        </a>
+      </li>
+
+    </ul>
+    </nav>
+    </div>
+  </body>  
+</html>
