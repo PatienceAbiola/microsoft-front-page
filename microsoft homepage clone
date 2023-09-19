@@ -10,7 +10,7 @@
       <nav class="main-nav">
       <img src="microsoftlogopic.jpeg" alt="Microsoft" class="logo">
       
-    <ul class="main-menu">
+    <ul class="main-menu"> 
       <li><a href="#">office</a></li>
       <li><a href="#">windows</a></li>
       <li><a href="#">surface</a></li>
@@ -32,6 +32,14 @@
 
     </ul>
     </nav>
+    <header class="showcase">
+      <h2>Surface Deals</h2>
+      <p>Select Surfaces are on sale now - save
+        while supplies last
+      </p>
+      <a href="a" class="btn">Shop Now <i class="fas fa-chevron-right"></i></a>
+
+    </header>
     </div>
   </body>  
 </html>
