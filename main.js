@@ -1,3 +1,3 @@
- document.querySelector(".menu-btn").addEventListener
-      ("click",() => document.querySelector(".main-menu")
-      .classlists.toggle ("show") )
+ document.querySelector(".menu-btn").addEventListener("click", () => {
+  document.querySelector(".main-menu").classList.toggle("show");
+});

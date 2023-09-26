@@ -16,7 +16,7 @@
       <nav class="main-nav">
         <img src="microsoftlogopic.jpeg" alt="microsoft" class="logo">
     
-    <ul class="main-menu">
+    <ul class="main-menu show">
       <li><a href="#">office</a></li>
       <li><a href="#">windows</a></li>
       <li><a href="#">surface</a></li>
@@ -232,9 +232,9 @@
   
     </div>
     <script>
-      document.querySelector(".menu-btn").addEventListener
-      ("click",() => document.querySelector(".main-menu")
-      .classlists.toggle ("show") )
+      document.querySelector(".menu-btn").addEventListener("click", () => {
+      document.querySelector(".main-menu").classList.toggle(".show");
+      });
     </script>
   </body>  
 </html>
